@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "9Zxva5BmG9mxY1Oi3pkZKjv25Aw",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "AR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4u3AdoMU0MBAxKA8XRIc8hun0fM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bZcMPnY9_dg"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-12T08:00:03Z",
+        "channelId": "UCHsuawFBoDqp2R9emTBOgAA",
+        "title": "Luis Alberto Spinetta - Bajan (En Vivo Estadio Vélez Sarsfield) ft. Gustavo Cerati",
+        "description": "Luis Alberto Spinetta feat. Gustavo Cerati - \"Bajan\" (En Vivo Estadio Vélez Sarsfield) (4/12/2009) (de \"Spinetta y las Bandas ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bZcMPnY9_dg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bZcMPnY9_dg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bZcMPnY9_dg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "spinettaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-12T08:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "owWNrwGOkNycpwRIRBIxAJJFPRE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Egj4PSgMAfA"
+      },
+      "snippet": {
+        "publishedAt": "2009-01-16T02:38:06Z",
+        "channelId": "UCntZUkl8CJ9MfBnm0vC9BTQ",
+        "title": "SPINETTA - BAJAN",
+        "description": "Luis Alberto Spinetta es, sin duda, uno de los artistas más originales y prolíficos del rock argentino. EL Album \"SI o SI - Luis ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Egj4PSgMAfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Egj4PSgMAfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Egj4PSgMAfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "spinettasonymusic",
+        "liveBroadcastContent": "none",
+        "publishTime": "2009-01-16T02:38:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Kohpmp2dCpMDSLOD2Eu-qdiLhNE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kHPja5eLZdU"
+      },
+      "snippet": {
+        "publishedAt": "2017-01-12T08:00:30Z",
+        "channelId": "UCHsuawFBoDqp2R9emTBOgAA",
+        "title": "Luis Alberto Spinetta - Rezo por Vos (En Vivo Estadio Vélez Sarsfield) ft. Charly García",
+        "description": "Luis Alberto Spinetta feat. Charly García - \"Rezo Por Vos\" (En Vivo Estadio Vélez Sarsfield) (4/12/2009) (de \"Spinetta y las ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kHPja5eLZdU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kHPja5eLZdU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kHPja5eLZdU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "spinettaVEVO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-12T08:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KPZJJXxaIlDrhdFTqmPHIjX2JvE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oduoQVYTOfE"
+      },
+      "snippet": {
+        "publishedAt": "2013-03-18T01:55:52Z",
+        "channelId": "UCBmf_ynK4LJ2kpEFDaQt4mw",
+        "title": "Luis Alberto Spinetta - MTV Unplugged - 1997",
+        "description": "http://www.spinettabootlegs.com.ar El concierto \"unplugged\" de mayor duración que se haya realizado en Mtv hasta el presente.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oduoQVYTOfE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oduoQVYTOfE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oduoQVYTOfE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Spinettabootlegs",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-03-18T01:55:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tdg9uPaZC9lVDxuWLcCByyhhRo8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MA8-Ld8zYkk"
+      },
+      "snippet": {
+        "publishedAt": "2013-03-11T03:41:20Z",
+        "channelId": "UCr8VVpNCBI8dKG6bmpQ1D4A",
+        "title": "Spinetta - Seguir Viviendo Sin Tu Amor",
+        "description": "https://cafecito.app/fabriamarillo Seguir Viviendo Sin Tu Amor Si a tu corazón yo llego igual todo siempre se podrá elegir no me ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MA8-Ld8zYkk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MA8-Ld8zYkk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MA8-Ld8zYkk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Fabri Amarillo",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-03-11T03:41:20Z"
+      }
+    }
+  ]
+}
